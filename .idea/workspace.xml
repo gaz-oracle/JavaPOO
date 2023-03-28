@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be09e292-8c7f-4f96-859c-832b735cedc6" name="Changes" comment="Merge remote-tracking branch 'origin/Ram1' into Ram08-NEW EXAMPLES">
+    <list default="true" id="52b10731-bbb6-4be0-9344-79a3abac847d" name="Changes" comment="Commit 1º - HashMap">
+      <change afterPath="$PROJECT_DIR$/src/com/gaz/app/hasmap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gaz/app/hasmap/UserHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_HashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/_HashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_LinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/_LinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_TreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/_TreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/removeHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/removeHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wayIteratorJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/collection/wayIteratorJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gaz/app/hasmap/CreateHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gaz/app/hasmap/CreateHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +25,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Ram08" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="06e5843f-b029-4605-bbc0-b7e25fbf62c4" />
+        <option name="url" value="https://github.com/gaz-oracle/JavaPOO.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,23 +69,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.wayIteratorJava">
-    <configuration name="_HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaz.app.collection._HashSet" />
+  <component name="RunManager" selected="Application.UserHashMap">
+    <configuration name="CreateHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaz.app.hasmap.CreateHashMap" />
       <module name="Ram_08_Hash_Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaz.app.hasmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaz.app.hasmap.UserHashMap" />
+      <module name="Ram_08_Hash_Interface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaz.app.hasmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="_LinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gaz.app.collection._LinkedHashSet" />
-      <module name="Ram_08_Hash_Interface" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gaz.app.collection._TreeSet" />
       <module name="Ram_08_Hash_Interface" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserHashMap" />
+        <item itemvalue="Application.CreateHashMap" />
         <item itemvalue="Application.wayIteratorJava" />
         <item itemvalue="Application.removeHashSet" />
         <item itemvalue="Application._LinkedHashSet" />
-        <item itemvalue="Application._HashSet" />
-        <item itemvalue="Application._TreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +137,7 @@
       <updated>1679512409854</updated>
       <workItem from="1679512410906" duration="1095000" />
       <workItem from="1679760135435" duration="8849000" />
-      <workItem from="1680044786440" duration="319000" />
+      <workItem from="1680044786440" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="1 º Commit Ram 08">
       <created>1679512561526</created>
@@ -159,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679774019236</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit 1º - HashMap">
+      <created>1680045286980</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680045286980</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +212,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/Ram1' into Ram1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/Ram1' into Ram08" />
     <MESSAGE value="Merge remote-tracking branch 'origin/Ram1' into Ram08-NEW EXAMPLES" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/Ram1' into Ram08-NEW EXAMPLES" />
+    <MESSAGE value="Commit 1º - HashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1º - HashMap" />
   </component>
 </project>
