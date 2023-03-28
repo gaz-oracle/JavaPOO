@@ -1,3 +1,5 @@
+package com.gaz.app.collection;
+
 import org.w3c.dom.ls.LSOutput;
 
 import java.util.HashSet;

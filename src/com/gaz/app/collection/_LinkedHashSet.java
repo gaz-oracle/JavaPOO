@@ -1,3 +1,5 @@
+package com.gaz.app.collection;
+
 import java.util.*;
 
 public class _LinkedHashSet {

@@ -1,3 +1,5 @@
+package com.gaz.app.collection;
+
 import java.util.HashSet;
 import java.util.Set;
 
