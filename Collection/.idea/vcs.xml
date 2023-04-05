@@ -2,6 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/08_Set_InterfaceandHash_Ram/_08_Set_InterfaceandHash_Ram" vcs="Git" />
   </component>
 </project>
